@@ -1,2 +1,2 @@
-# Email-sender
-Email sender by using Node.js
+# CRUD-project
+CRUD operations using node.js and SQL
